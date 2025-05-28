@@ -1253,13 +1253,13 @@ main{
     padding-bottom:5%;
 }
     body::-webkit-scrollbar {
-        width: 20px;
+        width: 14px;
     }
 
     /* Hintergrund der Scrollbar (Track) */
     body::-webkit-scrollbar-track {
         background: #f1f1f1;
-        border-radius: 10px;
+        border-radius: 0px;
         /* Optional: abgerundete Ecken */
     }
 
@@ -1589,7 +1589,7 @@ main{
     padding-bottom:5%;
 }
     body::-webkit-scrollbar {
-        width: 20px;
+        width: 14px;
     }
 
     /* Hintergrund der Scrollbar (Track) */
