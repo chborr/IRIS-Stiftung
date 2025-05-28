@@ -1,10 +1,11 @@
 header {
     background-color: #70214d;
     width: 100%;
+    height:20%;
     color: white;
     display: block;
     position: fixed;
-    z-index: 100;
+    z-index: 1;
 }
 
 
@@ -20,13 +21,13 @@ header {
     scroll-margin-top: calc(18vh - 30px)
 }
 
-html,
 body {
     font-family: 'OpenSans', sans-serif;
     margin: 0;
-    padding: 0;
+    padding:0;
     width: 100%;
-    scrollbar-width: 250px;
+    position: relative;
+    display: block;
 }
 
 
@@ -76,11 +77,23 @@ footer {
 
 }
 
+main{
+    width: 100%;
+}
 
 @media (max-width: 575px) {
+main{
+    width: 100%;
+    padding-top:25%;
+}
+
+    #mainheader{
+        height:auto;
+        width: 100%;
+    }
 
     #mainheader.scrolled {
-        height: auto;
+        height: 100px;
         filter: drop-shadow(0px 3px 6px rgb(34, 34, 34));
     }
 
@@ -91,14 +104,12 @@ footer {
 
     #mainheader.scrolled nav {
         padding: 2% 0 2% 0;
-        gap: 15%;
+        gap: 8%;
         width: 100%;
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
-
-    body {
-        width: 100%;
-    }
+   
+    
 
     p {
         font-size: 1.2rem;
@@ -118,7 +129,7 @@ footer {
     }
 
     .head {
-        width: 90%;
+        width: fit-content;
         padding-left: 5%;
         padding-right: 5%;
         flex-wrap: wrap;
@@ -133,7 +144,7 @@ footer {
         align-content: center;
         padding: 5% 0 5% 0;
         gap: 10%;
-        width: 100%;
+        
     }
 
 
@@ -148,21 +159,20 @@ footer {
 
     .hero {
         width: 100%;
-        z-index: -1;
-        position: relative;
-        transform: translateY(120px);
+            
     }
 
-    .auge {
+    .hero img{
         width: 100%;
-        
     }
+    
 
     .opener {
         background-color: #3c1733;
         color: white;
-        margin-top: -2%;
-        padding-bottom: 18%;
+        width: 100%;
+        margin-top:-1%;
+        margin-bottom:-1%;
     }
 
     .text1 {
@@ -190,6 +200,7 @@ footer {
 
     .grid {
         height: auto;
+        width: 100%;
         padding:3% 0 5% 0;  
         padding-top: 2%;
         background-color: #70214d;
@@ -355,6 +366,10 @@ footer {
 }
 
 @media (min-width: 576px) and (max-width: 768px) {
+    main{
+    width: 100%;
+    padding-top:10%;
+}
 .impressum{
     
     padding-top:20%;
@@ -379,9 +394,7 @@ footer {
         font-size: 1rem;
     }
 
-    body {
-        width: 100%;
-    }
+
 
     p {
         font-size: 1.2rem;
@@ -429,9 +442,7 @@ footer {
 
     .hero {
         width: 100%;
-        position: relative;
-        z-index: -1;
-        transform: translateY(80px);
+        
     }
 
     .auge {
@@ -633,6 +644,10 @@ footer {
 }
 
 @media (min-width: 769px) and (max-width: 991px) {
+       main{
+    width: 100%;
+    padding-top:6%;
+}
 .impressum{
     
     padding-top:25%;
