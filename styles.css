@@ -90,7 +90,7 @@ footer {
     gap: 10%;
     align-content: center;
     flex-direction: row;
-
+    width:90%;
 }
 
 main{
@@ -373,6 +373,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        
     }
 
     .impressum{
