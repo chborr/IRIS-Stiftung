@@ -114,7 +114,7 @@ main{
     }
 
     #mainheader.scrolled nav {
-        
+        paddin-bottom:2%;
         gap: 6%;
         width: 100%;
         font-size: 0.9rem;
