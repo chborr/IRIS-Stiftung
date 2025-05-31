@@ -135,7 +135,7 @@ main{
     h3 {
         font-size: 1.2rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     .head {
@@ -266,6 +266,7 @@ main{
         padding-right: 5%;
         padding-top: 5%;
         padding-bottom: 5%;
+        overflow-wrap: break-word;
     }
 
     .column2 {
@@ -421,7 +422,7 @@ main{
     h3 {
         font-size: 1.2rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     .head {
@@ -700,7 +701,7 @@ main{
     h3 {
         font-size: 1.2rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     .head {
@@ -986,7 +987,7 @@ main{
     h3 {
         font-size: 1.2rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     .head {
@@ -1316,7 +1317,7 @@ main{
     h3 {
         font-size: 1.4rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     .head {
@@ -1654,7 +1655,7 @@ main{
     h3 {
         font-size: 1.6rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     h4 {
@@ -2016,7 +2017,7 @@ main{
     h3 {
         font-size: 1.6rem;
         color: #3c1733;
-        font-weight: lighter;
+        font-weight: normal;
     }
 
     h4 {
