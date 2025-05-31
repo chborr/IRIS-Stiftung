@@ -1,3 +1,10 @@
+html{
+    width: 100%;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
 header {
     background-color: #70214d;
     width: 100%;
@@ -1253,7 +1260,7 @@ main{
     padding-bottom:5%;
 }
     body::-webkit-scrollbar {
-        width: 14px;
+        width: 20px;
     }
 
     /* Hintergrund der Scrollbar (Track) */
@@ -1589,7 +1596,7 @@ main{
     padding-bottom:5%;
 }
     body::-webkit-scrollbar {
-        width: 14px;
+        width: 20px;
     }
 
     /* Hintergrund der Scrollbar (Track) */
