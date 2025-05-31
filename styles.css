@@ -18,7 +18,12 @@ header {
     z-index: 1;
 }
 
-
+.datenschutz{
+padding-top:20%;
+    padding-left:5%;
+    padding-right:5%;
+    padding-bottom:2%;
+}
 
 #mainheader {
     height: auto;
