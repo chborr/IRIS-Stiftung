@@ -96,6 +96,12 @@ main{
     width: 100%;
 }
 
+p{
+    overflow-wrap:break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+}
+
 @media (max-width: 575px) {
 main{
     width: 100%;
