@@ -379,7 +379,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
-        
+        width:20%;
     }
 
     .impressum{
@@ -665,6 +665,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        width:100%;
     }
 
 }
@@ -946,6 +947,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        width:80%;
     }
 
 }
@@ -1264,6 +1266,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        width:50%;
     }
 
 }
@@ -1600,6 +1603,8 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        width:30%;
+    
     }
 
 }
@@ -1943,6 +1948,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        width:20%;
     }
 
 }
@@ -2319,6 +2325,7 @@ main{
         gap: 10%;
         margin-left: auto;
         margin-right: auto;
+        width:20%;
     }
 
 }
