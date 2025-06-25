@@ -100,7 +100,7 @@ p{
     overflow-wrap:break-word;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
-    color:black; 
+     
 }
 
 @media (max-width: 575px) {
@@ -137,7 +137,7 @@ main{
     p {
         font-size: 1.2rem;
         line-height: 1.8rem;
-        color:black;
+    
     }
 
 
@@ -426,7 +426,7 @@ main{
     p {
         font-size: 1.2rem;
         line-height: 1.8rem;
-        color:black;
+        
     }
 
 
@@ -707,7 +707,7 @@ main{
     p {
         font-size: 1.4rem;
         line-height: 1.8rem;
-        color:black;
+        
     }
 
 
@@ -990,7 +990,7 @@ main{
     p {
         font-size: 1.2rem;
         line-height: 1.8rem;
-        color:black;
+       
     }
 
     .h1 {
@@ -1322,7 +1322,7 @@ main{
     p {
         font-size: 1.4rem;
         line-height: 2rem;
-        color:black;
+        
     }
 
     .h1 {
@@ -1663,7 +1663,7 @@ main{
     p {
         font-size: 1.6rem;
         line-height: 2.3rem;
-        color:black;
+        
     }
 
     .h1 {
@@ -2027,7 +2027,7 @@ main{
     p {
         font-size: 1.6rem;
         line-height: 2.6rem;
-        color:black;
+       
     }
 
     .h1 {
