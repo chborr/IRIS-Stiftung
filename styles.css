@@ -63,6 +63,13 @@ a:hover {
 
 }
 
+
+.phone, .IBAN, .BIC, .mail{
+        color:black;
+        text-decoration:none;
+        display:visible;
+    }
+
 nav {
     display: flex;
     flex-direction: row;
@@ -436,6 +443,14 @@ main{
         
     }
 
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.2rem;
+        line-height:1.8rem;
+        text-decoration:none;
+        display:visible;
+    }
+
 
     h2 {
         font-size: 2rem;
@@ -715,6 +730,14 @@ main{
         font-size: 1.4rem;
         line-height: 1.8rem;
         
+    }
+
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.4rem;
+        line-height:1.8rem;
+        text-decoration:none;
+        display:visible;
     }
 
 
@@ -998,6 +1021,14 @@ main{
         font-size: 1.2rem;
         line-height: 1.8rem;
        
+    }
+
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.2rem;
+        line-height:1.8rem;
+        text-decoration:none;
+        display:visible;
     }
 
     .h1 {
@@ -1330,6 +1361,13 @@ main{
         font-size: 1.4rem;
         line-height: 2rem;
         
+    }
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.4rem;
+        line-height:2rem;
+        text-decoration:none;
+        display:visible;
     }
 
     .h1 {
@@ -1671,6 +1709,14 @@ main{
         font-size: 1.6rem;
         line-height: 2.3rem;
         
+    }
+
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.6rem;
+        line-height:2.3rem;
+        text-decoration:none;
+        display:visible;
     }
 
     .h1 {
@@ -2035,6 +2081,14 @@ main{
         font-size: 1.6rem;
         line-height: 2.6rem;
        
+    }
+
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.6rem;
+        line-height:2.6rem;
+        text-decoration:none;
+        display:visible;
     }
 
     .h1 {
