@@ -140,6 +140,13 @@ main{
     
     }
 
+    .phone, .IBAN, .BIC, .mail{
+        color:black;
+        font-size:1.2rem;
+        line-height:1.8rem;
+        text-decoration:none;
+        display:visible;
+    }
 
     h2 {
         font-size: 1.8rem;
