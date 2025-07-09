@@ -396,6 +396,11 @@ main{
         width:auto;
     }
 
+    .footer a{
+        padding-right:2%;
+        padding-left:2%;
+    }
+
     .impressum{
     
     padding-top:30%;
@@ -689,6 +694,11 @@ main{
         margin-left: auto;
         margin-right: auto;
         width:100%;
+    }
+
+    .footer a{
+        padding-right:2%;
+        padding-left:2%;
     }
 
 }
