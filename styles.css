@@ -393,12 +393,14 @@ main{
         display: flex;
         margin-left: auto;
         margin-right: auto;
-        width:auto;
+        width:100%;
     }
 
     .footer a{
         padding-right:2%;
         padding-left:2%;
+        margin-right:auto;
+        margin-left:auto;
     }
 
     .impressum{
@@ -699,6 +701,8 @@ main{
     .footer a{
         padding-right:2%;
         padding-left:2%;
+        margin-right:auto;
+        margin-left:auto;
     }
 
 }
