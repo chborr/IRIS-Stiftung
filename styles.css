@@ -391,10 +391,9 @@ main{
     .footer {
         align-items: center;
         display: flex;
-        gap: 10%;
         margin-left: auto;
         margin-right: auto;
-        width:20%;
+        width:auto;
     }
 
     .impressum{
@@ -686,7 +685,7 @@ main{
     .footer {
         align-items: center;
         display: flex;
-        gap: 10%;
+        
         margin-left: auto;
         margin-right: auto;
         width:100%;
